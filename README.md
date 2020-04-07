@@ -1,4 +1,4 @@
-# DC-airbnb-analysis
+# D.C.-Airbnb-analysis
 The following project uses data found at http://insideairbnb.com/washington-dc/ to explore different aspects of Washington D.C.'s Airbnb market. Airbnb provides a listing, review, and host dataset.
 
 ## Table of Cotents
