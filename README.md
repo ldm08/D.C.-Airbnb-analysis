@@ -29,9 +29,8 @@ For this project, I was interested in using the Washington D.C. Airbnb data to b
 8. Does sentiment in reviews tell us which neighborhoods or price ranges are better? 
 
 ## File Descriptions
-View interactive notebook [here](https://github.com/ldm08/DC-airbnb-analysis/blob/master/notebooks/WashingtonDCAirbnb.ipynb).
 - data/ : data I used for analysis from [inside airbnb](http://insideairbnb.com/get-the-data.html)
-- notebooks/ : contains notebook in html and ipynb version 
+- WashingtonDCAirbnb.ipynb : notebook with analysis
 
 ## Results
 Main findings from code can be found at the post [here](https://medium.com/@ldm8/shopping-for-airbnbs-at-the-mall-80479a2e4d9f)
